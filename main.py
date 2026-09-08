@@ -1,5 +1,4 @@
-name = "Apple"
-age = 22
-
-print("My name is", name)
-print("My age is", age)
+text = "Python"
+print(text[::2])
+print(text[::3])
+print(text[::-1])
